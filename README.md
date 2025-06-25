@@ -1,10 +1,10 @@
-# 🧰 PC Automation Toolkit
+#  PC Automation Toolkit
 
 A suite of Python scripts designed to automate everyday desktop file maintenance tasks, including organizing downloads, cleaning old files, archiving the desktop, and detecting duplicate files.
 
 ---
 
-## 📦 Contents
+##  Contents
 
 ### 1. `downloads_organizer.py`
 
@@ -71,7 +71,7 @@ Launcher script providing a CLI menu to run all tools from one place.
 
 ---
 
-## 📌 Notes
+##  Notes
 
 * All tools are safe by design — no destructive actions without explicit confirmation
 * File paths and folder names are either dynamically detected or requested from the user
@@ -79,13 +79,12 @@ Launcher script providing a CLI menu to run all tools from one place.
 
 ---
 
-## 📄 License
+##  License
 
-MIT License (or modify this section based on your intended license)
-
+MIT License
 ---
 
-## ✍️ Author
+##  Author
 
 Luke Underhill 
 Personal Automation Project - 2025
